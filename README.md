@@ -1,4 +1,4 @@
-#Recursos para app de gastos
+# Recursos para app de gastos
 
 ## Copia de archivos
 
