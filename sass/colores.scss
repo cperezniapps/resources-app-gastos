@@ -1,0 +1,111 @@
+
+.bg-primary {
+    background-color: #4680ff !important;
+    color: #ffffff;
+    fill: #4680ff;
+}
+
+.bg-secondary {
+    background-color: #673bb7 !important;
+    color: #ffffff;
+    fill: #673bb7;
+}
+
+.bg-success {
+    background-color: #4caf50 !important;
+    color: #ffffff;
+    fill: #4caf50;
+}
+
+.bg-info {
+    background-color: #17a2b8 !important;
+    color: #ffffff;
+    fill: #17a2b8;
+}
+
+.bg-danger {
+    background-color: #ff5722 !important;
+    color: #ffffff;
+    fill: #ff5722;
+}
+
+.bg-warning {
+    background-color: #ffc107 !important;
+    color: #ffffff;
+    fill: #ffc107;
+}
+
+.bg-dark {
+    background-color: #6a707e !important;
+    color: #ffffff;
+    fill: #6a707e;
+}
+
+.bg-white {
+    background-color: #ffffff !important;
+}
+
+.bg-transparent {
+    background-color: transparent !important;
+    color: #000000;
+}
+
+
+/*  Background Lighten
+----------------------*/
+
+.bg-primary-darken-5 {
+    background-color: #001646;
+}
+
+.bg-secondary-darken-5 {
+    background-color: #000000;
+}
+
+.bg-success-darken-5 {
+    background-color: #000000;
+}
+
+.bg-info-darken-5 {
+    background-color: #000000;
+}
+
+.bg-danger-darken-5 {
+    background-color: #220800;
+}
+
+.bg-warning-darken-5 {
+    background-color: #070500;
+}
+
+
+/*    Border Mixins
+--------------------------*/
+
+.border-primary {
+    border-color: #4680ff !important;
+}
+
+.border-secondary {
+    border-color: #673bb7 !important;
+}
+
+.border-success {
+    border-color: #4caf50 !important;
+}
+
+.border-info {
+    border-color: #17a2b8 !important;
+}
+
+.border-danger {
+    border-color: #ff5722 !important;
+}
+
+.border-warning {
+    border-color: #ffc107 !important;
+}
+
+.border-dark {
+    border-color: #6a707e !important;
+}
